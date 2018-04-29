@@ -1,0 +1,334 @@
+firewall command:
+./firewall config1.txt -c 
+fw: starting filter thread.
+
+
+1. Block All
+2. Allow All
+3. Filter
+0. Exit
+> RCVR: opened file output.bin
+SNDR: Waiting 1ms between packets
+SNDR: Number of packets: 18
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250b +
+Word #08: 4a7d +
+Word #09: 1567 +
+----------------
+     Sum: e49f
+Pack CheckSum: 1b60  Computed CheckSum: 1b60
+
+Source IP in Hex: 8115250b
+RCVR: 129.21.37.11 -> 74.125.21.103
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 0000 +
+Word #03: 0000 +
+Word #04: ff01 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: 1567 +
+Word #08: 8115 +
+Word #09: 250b +
+----------------
+     Sum: 4a43
+Pack CheckSum: b5bc  Computed CheckSum: b5bc
+
+Source IP in Hex: 4a7d1567
+RCVR: 74.125.21.103 -> 129.21.37.11
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be29 +
+Word #08: 8115 +
+Word #09: 2501 +
+----------------
+     Sum: 88aa
+Pack CheckSum: 7755  Computed CheckSum: 7755
+
+Source IP in Hex: 45cfbe29
+RCVR: 69.207.190.41 -> 129.21.37.1
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195f +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250b +
+Word #08: 4a7d +
+Word #09: 1567 +
+----------------
+     Sum: e4a1
+Pack CheckSum: 1b5e  Computed CheckSum: 1b5e
+
+Source IP in Hex: 8115250b
+RCVR: 129.21.37.11 -> 74.125.21.103
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be29 +
+Word #08: 8115 +
+Word #09: 2502 +
+----------------
+     Sum: 88ab
+Pack CheckSum: 7754  Computed CheckSum: 7754
+
+Source IP in Hex: 45cfbe29
+RCVR: 69.207.190.41 -> 129.21.37.2
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 0000 +
+Word #03: 0000 +
+Word #04: ff01 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: 1567 +
+Word #08: 8115 +
+Word #09: 250b +
+----------------
+     Sum: 4a43
+Pack CheckSum: b5bc  Computed CheckSum: b5bc
+
+Source IP in Hex: 4a7d1567
+RCVR: 74.125.21.103 -> 129.21.37.11
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 251c +
+Word #08: 4a7d +
+Word #09: 1567 +
+----------------
+     Sum: e4b0
+Pack CheckSum: 1b4f  Computed CheckSum: 1b4f
+
+Source IP in Hex: 8115251c
+RCVR: 129.21.37.28 -> 74.125.21.103
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be29 +
+Word #08: 8115 +
+Word #09: 2503 +
+----------------
+     Sum: 88ac
+Pack CheckSum: 7753  Computed CheckSum: 7753
+
+Source IP in Hex: 45cfbe29
+RCVR: 69.207.190.41 -> 129.21.37.3
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 1960 +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250b +
+Word #08: 4a7d +
+Word #09: 1567 +
+----------------
+     Sum: e4a2
+Pack CheckSum: 1b5d  Computed CheckSum: 1b5d
+
+Source IP in Hex: 8115250b
+RCVR: 129.21.37.11 -> 74.125.21.103
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 0000 +
+Word #03: 0000 +
+Word #04: ff01 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: 1567 +
+Word #08: 8115 +
+Word #09: 251c +
+----------------
+     Sum: 4a54
+Pack CheckSum: b5ab  Computed CheckSum: b5ab
+
+Source IP in Hex: 4a7d1567
+RCVR: 74.125.21.103 -> 129.21.37.28
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be29 +
+Word #08: 8115 +
+Word #09: 2504 +
+----------------
+     Sum: 88ad
+Pack CheckSum: 7752  Computed CheckSum: 7752
+
+Source IP in Hex: 45cfbe29
+RCVR: 69.207.190.41 -> 129.21.37.4
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 0000 +
+Word #03: 0000 +
+Word #04: ff01 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: 1567 +
+Word #08: 8115 +
+Word #09: 250b +
+----------------
+     Sum: 4a43
+Pack CheckSum: b5bc  Computed CheckSum: b5bc
+
+Source IP in Hex: 4a7d1567
+RCVR: 74.125.21.103 -> 129.21.37.11
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195f +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 251c +
+Word #08: 4a7d +
+Word #09: 1567 +
+----------------
+     Sum: e4b2
+Pack CheckSum: 1b4d  Computed CheckSum: 1b4d
+
+Source IP in Hex: 8115251c
+RCVR: 129.21.37.28 -> 74.125.21.103
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be29 +
+Word #08: 8115 +
+Word #09: 2580 +
+----------------
+     Sum: 8929
+Pack CheckSum: 76d6  Computed CheckSum: 76d6
+
+Source IP in Hex: 45cfbe29
+RCVR: 69.207.190.41 -> 129.21.37.128
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 195d +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be29 +
+Word #08: 8115 +
+Word #09: 2581 +
+----------------
+     Sum: 892a
+Pack CheckSum: 76d5  Computed CheckSum: 76d5
+
+Source IP in Hex: 45cfbe29
+RCVR: 69.207.190.41 -> 129.21.37.129
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 1961 +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250b +
+Word #08: 4a7d +
+Word #09: 1567 +
+----------------
+     Sum: e4a3
+Pack CheckSum: 1b5c  Computed CheckSum: 1b5c
+
+Source IP in Hex: 8115250b
+RCVR: 129.21.37.11 -> 74.125.21.103
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 0000 +
+Word #03: 0000 +
+Word #04: ff01 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: 1567 +
+Word #08: 8115 +
+Word #09: 251c +
+----------------
+     Sum: 4a54
+Pack CheckSum: b5ab  Computed CheckSum: b5ab
+
+Source IP in Hex: 4a7d1567
+RCVR: 74.125.21.103 -> 129.21.37.28
+SNDR: Finished, wrote 18 packets to the pipe
+FwSim: Commanding firewall to Exit
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 0000 +
+Word #03: 0000 +
+Word #04: ff01 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: 1567 +
+Word #08: 8115 +
+Word #09: 250b +
+----------------
+     Sum: 4a43
+Pack CheckSum: b5bc  Computed CheckSum: b5bc
+
+Source IP in Hex: 4a7d1567
+RCVR: 74.125.21.103 -> 129.21.37.11
+>
+Exiting firewall
+fw: main is joining the thread.
+fw: thread destructor is deleting filter data.
+fw: thread destructor is closing pipes.
+fw: main confirmed that the thread was canceled.
+fw: main returning.
+
+FwSim: firewall exited with EXIT_SUCCESS
+FwSim: main is now cleaning up.
+FwSim: joining on receiver ...
+
+********** Analyzing the packets that passed through the firewall ***********
+     129.21.37.11 ->   74.125.21.103,  prot: 1, len:   60,      ECHO REQUEST
+    74.125.21.103 ->    129.21.37.11,  prot: 1, len:   60,        ECHO REPLY
+    69.207.190.41 ->     129.21.37.1,  prot: 1, len:   60,      ECHO REQUEST
+     129.21.37.11 ->   74.125.21.103,  prot: 1, len:   60,      ECHO REQUEST
+    69.207.190.41 ->     129.21.37.2,  prot: 1, len:   60,      ECHO REQUEST
+    74.125.21.103 ->    129.21.37.11,  prot: 1, len:   60,        ECHO REPLY
+     129.21.37.28 ->   74.125.21.103,  prot: 1, len:   60,      ECHO REQUEST
+    69.207.190.41 ->     129.21.37.3,  prot: 1, len:   60,      ECHO REQUEST
+     129.21.37.11 ->   74.125.21.103,  prot: 1, len:   60,      ECHO REQUEST
+    74.125.21.103 ->    129.21.37.28,  prot: 1, len:   60,        ECHO REPLY
+    69.207.190.41 ->     129.21.37.4,  prot: 1, len:   60,      ECHO REQUEST
+    74.125.21.103 ->    129.21.37.11,  prot: 1, len:   60,        ECHO REPLY
+     129.21.37.28 ->   74.125.21.103,  prot: 1, len:   60,      ECHO REQUEST
+    69.207.190.41 ->   129.21.37.128,  prot: 1, len:   60,      ECHO REQUEST
+    69.207.190.41 ->   129.21.37.129,  prot: 1, len:   60,      ECHO REQUEST
+     129.21.37.11 ->   74.125.21.103,  prot: 1, len:   60,      ECHO REQUEST
+    74.125.21.103 ->    129.21.37.28,  prot: 1, len:   60,        ECHO REPLY
+    74.125.21.103 ->    129.21.37.11,  prot: 1, len:   60,        ECHO REPLY
+FwSim: now exiting.

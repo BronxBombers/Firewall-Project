@@ -1,0 +1,2890 @@
+firewall command:
+./firewall config1.txt -c 
+fw: starting filter thread.
+
+
+1. Block All
+2. Allow All
+3. Filter
+0. Exit
+> RCVR: opened file output.bin
+SNDR: Waiting 1ms between packets
+SNDR: Number of packets: 191
+Word #00: 4500 +
+Word #01: 0034 +
+Word #02: 5cbd +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c55
+Pack CheckSum: 4246  Computed CheckSum: f3aa
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0034 +
+Word #02: 0000 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 6397
+Pack CheckSum: eb03  Computed CheckSum: 9c68
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cbe +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c4a
+Pack CheckSum: 4251  Computed CheckSum: f3b5
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0051 +
+Word #02: 6378 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c72c
+Pack CheckSum: 876e  Computed CheckSum: 38d3
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0044 +
+Word #02: 5cbf +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c67
+Pack CheckSum: 4234  Computed CheckSum: f398
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0228 +
+Word #02: 5cc0 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0e4c
+Pack CheckSum: 404f  Computed CheckSum: f1b3
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 00a8 +
+Word #02: 5cc1 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ccd
+Pack CheckSum: 41ce  Computed CheckSum: f332
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 637c +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c707
+Pack CheckSum: 8793  Computed CheckSum: 38f8
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 637d +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c708
+Pack CheckSum: 8792  Computed CheckSum: 38f7
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 637e +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c709
+Pack CheckSum: 8791  Computed CheckSum: 38f6
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 05dc +
+Word #02: 637f +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: ccbe
+Pack CheckSum: 81dc  Computed CheckSum: 3341
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 00c4 +
+Word #02: 6380 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7a7
+Pack CheckSum: 86f3  Computed CheckSum: 3858
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cc2 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c4e
+Pack CheckSum: 424d  Computed CheckSum: f3b1
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0038 +
+Word #02: 5cc3 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c5f
+Pack CheckSum: 423c  Computed CheckSum: f3a0
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0240 +
+Word #02: 6383 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c926
+Pack CheckSum: 8574  Computed CheckSum: 36d9
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0228 +
+Word #02: 5cc4 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0e50
+Pack CheckSum: 404b  Computed CheckSum: f1af
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0038 +
+Word #02: 5cc5 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c61
+Pack CheckSum: 423a  Computed CheckSum: f39e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 6386 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c711
+Pack CheckSum: 8789  Computed CheckSum: 38ee
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0378 +
+Word #02: 6387 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: ca62
+Pack CheckSum: 8438  Computed CheckSum: 359d
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0038 +
+Word #02: 5cc6 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c62
+Pack CheckSum: 4239  Computed CheckSum: f39d
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cc7 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c87
+Pack CheckSum: 4214  Computed CheckSum: f378
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 638b +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c716
+Pack CheckSum: 8784  Computed CheckSum: 38e9
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 638c +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c74b
+Pack CheckSum: 874f  Computed CheckSum: 38b4
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cc9 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c55
+Pack CheckSum: 4246  Computed CheckSum: f3aa
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 006c +
+Word #02: 5ccf +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c9f
+Pack CheckSum: 41fc  Computed CheckSum: f360
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 006c +
+Word #02: 638f +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c75e
+Pack CheckSum: 873c  Computed CheckSum: 38a1
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 008c +
+Word #02: 5cd0 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cc0
+Pack CheckSum: 41db  Computed CheckSum: f33f
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 006c +
+Word #02: 6391 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c760
+Pack CheckSum: 873a  Computed CheckSum: 389f
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cd1 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c5d
+Pack CheckSum: 423e  Computed CheckSum: f3a2
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0150 +
+Word #02: 5cd5 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0d89
+Pack CheckSum: 4112  Computed CheckSum: f276
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0034 +
+Word #02: 01c5 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aab2
+Pack CheckSum: a3e8  Computed CheckSum: 554d
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 6394 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c71f
+Pack CheckSum: 877b  Computed CheckSum: 38e0
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 0034 +
+Word #02: c5fe +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 1c14
+Pack CheckSum: 3287  Computed CheckSum: e3eb
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 6395 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c754
+Pack CheckSum: 8746  Computed CheckSum: 38ab
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01c6 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aaa7
+Pack CheckSum: a3f3  Computed CheckSum: 5558
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0150 +
+Word #02: 5cd6 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0d8a
+Pack CheckSum: 4111  Computed CheckSum: f275
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0302 +
+Word #02: 01c7 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: ad82
+Pack CheckSum: a118  Computed CheckSum: 527d
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 6397 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c722
+Pack CheckSum: 8778  Computed CheckSum: 38dd
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 0028 +
+Word #02: 2fab +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 85b4
+Pack CheckSum: c8e6  Computed CheckSum: 7a4b
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 004c +
+Word #02: 6398 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c747
+Pack CheckSum: 8753  Computed CheckSum: 38b8
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 2fac +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b69
+Pack CheckSum: c331  Computed CheckSum: 7496
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 006c +
+Word #02: 5cd7 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ca7
+Pack CheckSum: 41f4  Computed CheckSum: f358
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 2fad +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b6a
+Pack CheckSum: c330  Computed CheckSum: 7495
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 639a +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c725
+Pack CheckSum: 8775  Computed CheckSum: 38da
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0034 +
+Word #02: 42d0 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 3cad +
+Word #07: 0a4b +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 933d
+Pack CheckSum: 4cdb  Computed CheckSum: 6cc2
+
+Source IP in Hex: 3cad0a4b
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 639b +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c75a
+Pack CheckSum: 8740  Computed CheckSum: 38a5
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01c9 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aaaa
+Pack CheckSum: a3f0  Computed CheckSum: 5555
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 009c +
+Word #02: 5cda +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cda
+Pack CheckSum: 41c1  Computed CheckSum: f325
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0034 +
+Word #02: 42d1 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 3cad +
+Word #07: 0a4b +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 933e
+Pack CheckSum: 4cda  Computed CheckSum: 6cc1
+
+Source IP in Hex: 3cad0a4b
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 639d +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c728
+Pack CheckSum: 8772  Computed CheckSum: 38d7
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 2fae +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b6b
+Pack CheckSum: c32f  Computed CheckSum: 7494
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 004c +
+Word #02: 639e +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c74d
+Pack CheckSum: 874d  Computed CheckSum: 38b2
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0030 +
+Word #02: 42d2 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 3cad +
+Word #07: 0a4b +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 933b
+Pack CheckSum: 4cdd  Computed CheckSum: 6cc4
+
+Source IP in Hex: 3cad0a4b
+Word #00: 4500 +
+Word #01: 008c +
+Word #02: 5cdb +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ccb
+Pack CheckSum: 41d0  Computed CheckSum: f334
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01ca +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aaab
+Pack CheckSum: a3ef  Computed CheckSum: 5554
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 004c +
+Word #02: 63a0 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c74f
+Pack CheckSum: 874b  Computed CheckSum: 38b0
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0034 +
+Word #02: 020d +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: d811 +
+Word #07: 6f87 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 531b
+Pack CheckSum: ace4  Computed CheckSum: ace4
+
+Source IP in Hex: d8116f87
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cdc +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c9c
+Pack CheckSum: 41ff  Computed CheckSum: f363
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01cb +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aaac
+Pack CheckSum: a3ee  Computed CheckSum: 5553
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 0080 +
+Word #02: 63a2 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c795
+Pack CheckSum: 8705  Computed CheckSum: 386a
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 2fb3 +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b70
+Pack CheckSum: c32a  Computed CheckSum: 748f
+
+Source IP in Hex: 81151e63
+Word #00: 4510 +
+Word #01: 05dc +
+Word #02: 63a3 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: ccf2
+Pack CheckSum: 81a8  Computed CheckSum: 330d
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 2fb4 +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b71
+Pack CheckSum: c329  Computed CheckSum: 748e
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cdd +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c69
+Pack CheckSum: 4232  Computed CheckSum: f396
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01cc +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aaad
+Pack CheckSum: a3ed  Computed CheckSum: 5552
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 0128 +
+Word #02: 63a4 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c83f
+Pack CheckSum: 865b  Computed CheckSum: 37c0
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 2fb5 +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b72
+Pack CheckSum: c328  Computed CheckSum: 748d
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cde +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c6a
+Pack CheckSum: 4231  Computed CheckSum: f395
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01cd +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aaae
+Pack CheckSum: a3ec  Computed CheckSum: 5551
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 006c +
+Word #02: 63a7 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c786
+Pack CheckSum: 8714  Computed CheckSum: 3879
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01ce +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aaaf
+Pack CheckSum: a3eb  Computed CheckSum: 5550
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cdf +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c6b
+Pack CheckSum: 4230  Computed CheckSum: f394
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 2fb9 +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b76
+Pack CheckSum: c324  Computed CheckSum: 7489
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5ce1 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ca1
+Pack CheckSum: 41fa  Computed CheckSum: f35e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4528 +
+Word #01: 026f +
+Word #02: 2fba +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 880a
+Pack CheckSum: c690  Computed CheckSum: 77f5
+
+Source IP in Hex: 81151e63
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63ab +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c77a
+Pack CheckSum: 8720  Computed CheckSum: 3885
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01d0 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aab1
+Pack CheckSum: a3e9  Computed CheckSum: 554e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 006c +
+Word #02: 63ac +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c78b
+Pack CheckSum: 870f  Computed CheckSum: 3874
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 01e6 +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 4a7d +
+Word #09: c493 +
+----------------
+     Sum: da6e
+Pack CheckSum: 742c  Computed CheckSum: 2591
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5ce2 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c6e
+Pack CheckSum: 422d  Computed CheckSum: f391
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 2fdc +
+Word #03: 0000 +
+Word #04: 2601 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: c493 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: ae64
+Pack CheckSum: a036  Computed CheckSum: 519b
+
+Source IP in Hex: 4a7dc493
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5ce7 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ca7
+Pack CheckSum: 41f4  Computed CheckSum: f358
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 01ec +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 0c0a +
+Word #07: 6f6a +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 46d8
+Pack CheckSum: 7426  Computed CheckSum: b927
+
+Source IP in Hex: c0a6f6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63b1 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c780
+Pack CheckSum: 871a  Computed CheckSum: 387f
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 01f3 +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 4a7d +
+Word #09: c493 +
+----------------
+     Sum: da7b
+Pack CheckSum: 741f  Computed CheckSum: 2584
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5ce8 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ca8
+Pack CheckSum: 41f3  Computed CheckSum: f357
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 2ff2 +
+Word #03: 0000 +
+Word #04: 2601 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: c493 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: ae7a
+Pack CheckSum: a020  Computed CheckSum: 5185
+
+Source IP in Hex: 4a7dc493
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63b3 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c782
+Pack CheckSum: 8718  Computed CheckSum: 387d
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 0028 +
+Word #02: c60a +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 1c14
+Pack CheckSum: 3287  Computed CheckSum: e3eb
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5ce9 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ca9
+Pack CheckSum: 41f2  Computed CheckSum: f356
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01f4 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aad5
+Pack CheckSum: a3c5  Computed CheckSum: 552a
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63b5 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c784
+Pack CheckSum: 8716  Computed CheckSum: 387b
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01f5 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aad6
+Pack CheckSum: a3c4  Computed CheckSum: 5529
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 014c +
+Word #02: 63b6 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c875
+Pack CheckSum: 8625  Computed CheckSum: 378a
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 0028 +
+Word #02: c60b +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 1c15
+Pack CheckSum: 3286  Computed CheckSum: e3ea
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cea +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c76
+Pack CheckSum: 4225  Computed CheckSum: f389
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0034 +
+Word #02: 01f9 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aae6
+Pack CheckSum: a3b4  Computed CheckSum: 5519
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 006c +
+Word #02: 63b7 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c796
+Pack CheckSum: 8704  Computed CheckSum: 3869
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 0034 +
+Word #02: c60e +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 1c24
+Pack CheckSum: 3277  Computed CheckSum: e3db
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5ceb +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c77
+Pack CheckSum: 4224  Computed CheckSum: f388
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 01fc +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aadd
+Pack CheckSum: a3bd  Computed CheckSum: 5522
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cf2 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cb2
+Pack CheckSum: 41e9  Computed CheckSum: f34d
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0342 +
+Word #02: 01ff +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: adfa
+Pack CheckSum: a0a0  Computed CheckSum: 5205
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63bc +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c78b
+Pack CheckSum: 870f  Computed CheckSum: 3874
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 0028 +
+Word #02: 2ffa +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8603
+Pack CheckSum: c897  Computed CheckSum: 79fc
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cf3 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cb3
+Pack CheckSum: 41e8  Computed CheckSum: f34c
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4528 +
+Word #01: 030b +
+Word #02: 2ffd +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 88e9
+Pack CheckSum: c5b1  Computed CheckSum: 7716
+
+Source IP in Hex: 81151e63
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63be +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c78d
+Pack CheckSum: 870d  Computed CheckSum: 3872
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 0201 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: aae2
+Pack CheckSum: a3b8  Computed CheckSum: 551d
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cf5 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c81
+Pack CheckSum: 421a  Computed CheckSum: f37e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 0202 +
+Word #03: 0000 +
+Word #04: 8001 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 4a7d +
+Word #09: c493 +
+----------------
+     Sum: da8a
+Pack CheckSum: 7410  Computed CheckSum: 2575
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cf6 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cb6
+Pack CheckSum: 41e5  Computed CheckSum: f349
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 003c +
+Word #02: 3000 +
+Word #03: 0000 +
+Word #04: 2601 +
+....OMITTING CHECKSUM....
+Word #06: 4a7d +
+Word #07: c493 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: ae88
+Pack CheckSum: a012  Computed CheckSum: 5177
+
+Source IP in Hex: 4a7dc493
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63c1 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c790
+Pack CheckSum: 870a  Computed CheckSum: 386f
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 036d +
+Word #02: 0221 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: ae47
+Pack CheckSum: a053  Computed CheckSum: 51b8
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cf7 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c83
+Pack CheckSum: 4218  Computed CheckSum: f37c
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4528 +
+Word #01: 0028 +
+Word #02: 3037 +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8640
+Pack CheckSum: c85a  Computed CheckSum: 79bf
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cfc +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cbc
+Pack CheckSum: 41df  Computed CheckSum: f343
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4528 +
+Word #01: 05dc +
+Word #02: 3038 +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8bf5
+Pack CheckSum: c2a5  Computed CheckSum: 740a
+
+Source IP in Hex: 81151e63
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63c5 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c794
+Pack CheckSum: 8706  Computed CheckSum: 386b
+
+Source IP in Hex: 8115250d
+Word #00: 4528 +
+Word #01: 0504 +
+Word #02: 3039 +
+Word #03: 4000 +
+Word #04: 2d06 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 1e63 +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8b1e
+Pack CheckSum: c37c  Computed CheckSum: 74e1
+
+Source IP in Hex: 81151e63
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cfd +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cbd
+Pack CheckSum: 41de  Computed CheckSum: f342
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 0222 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 1e63 +
+----------------
+     Sum: ab03
+Pack CheckSum: a397  Computed CheckSum: 54fc
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63c7 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c796
+Pack CheckSum: 8704  Computed CheckSum: 3869
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5cfe +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cbe
+Pack CheckSum: 41dd  Computed CheckSum: f341
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63c9 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c798
+Pack CheckSum: 8702  Computed CheckSum: 3867
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5cff +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c8b
+Pack CheckSum: 4210  Computed CheckSum: f374
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d01 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cc1
+Pack CheckSum: 41da  Computed CheckSum: f33e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63cd +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c79c
+Pack CheckSum: 86fe  Computed CheckSum: 3863
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d03 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cc3
+Pack CheckSum: 41d8  Computed CheckSum: f33c
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63cf +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c79e
+Pack CheckSum: 86fc  Computed CheckSum: 3861
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d05 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c91
+Pack CheckSum: 420a  Computed CheckSum: f36e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d07 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cc7
+Pack CheckSum: 41d4  Computed CheckSum: f338
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63d2 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7a1
+Pack CheckSum: 86f9  Computed CheckSum: 385e
+
+Source IP in Hex: 8115250d
+Word #00: 4510 +
+Word #01: 009c +
+Word #02: 63d3 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7e2
+Pack CheckSum: 86b8  Computed CheckSum: 381d
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d08 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c94
+Pack CheckSum: 4207  Computed CheckSum: f36b
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d0c +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ccc
+Pack CheckSum: 41cf  Computed CheckSum: f333
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63db +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7aa
+Pack CheckSum: 86f0  Computed CheckSum: 3855
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d0e +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cce
+Pack CheckSum: 41cd  Computed CheckSum: f331
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63dd +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7ac
+Pack CheckSum: 86ee  Computed CheckSum: 3853
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d0f +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ccf
+Pack CheckSum: 41cc  Computed CheckSum: f330
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63df +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7ae
+Pack CheckSum: 86ec  Computed CheckSum: 3851
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d10 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c9c
+Pack CheckSum: 41ff  Computed CheckSum: f363
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d11 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cd1
+Pack CheckSum: 41ca  Computed CheckSum: f32e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63e2 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7b1
+Pack CheckSum: 86e9  Computed CheckSum: 384e
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d12 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cd2
+Pack CheckSum: 41c9  Computed CheckSum: f32d
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63e4 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7b3
+Pack CheckSum: 86e7  Computed CheckSum: 384c
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d13 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0c9f
+Pack CheckSum: 41fc  Computed CheckSum: f360
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d14 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cd4
+Pack CheckSum: 41c7  Computed CheckSum: f32b
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63e7 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7b6
+Pack CheckSum: 86e4  Computed CheckSum: 3849
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d16 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cd6
+Pack CheckSum: 41c5  Computed CheckSum: f329
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63e9 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7b8
+Pack CheckSum: 86e2  Computed CheckSum: 3847
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d18 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cd8
+Pack CheckSum: 41c3  Computed CheckSum: f327
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63eb +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7ba
+Pack CheckSum: 86e0  Computed CheckSum: 3845
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d1a +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ca6
+Pack CheckSum: 41f5  Computed CheckSum: f359
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d1c +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cdc
+Pack CheckSum: 41bf  Computed CheckSum: f323
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63ee +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7bd
+Pack CheckSum: 86dd  Computed CheckSum: 3842
+
+Source IP in Hex: 8115250d
+Word #00: 4510 +
+Word #01: 007c +
+Word #02: 63ef +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7de
+Pack CheckSum: 86bc  Computed CheckSum: 3821
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d1d +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ca9
+Pack CheckSum: 41f2  Computed CheckSum: f356
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d1e +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cde
+Pack CheckSum: 41bd  Computed CheckSum: f321
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63f2 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7c1
+Pack CheckSum: 86d9  Computed CheckSum: 383e
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d1f +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cdf
+Pack CheckSum: 41bc  Computed CheckSum: f320
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63f4 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7c3
+Pack CheckSum: 86d7  Computed CheckSum: 383c
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d20 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cac
+Pack CheckSum: 41ef  Computed CheckSum: f353
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d21 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ce1
+Pack CheckSum: 41ba  Computed CheckSum: f31e
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63f7 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7c6
+Pack CheckSum: 86d4  Computed CheckSum: 3839
+
+Source IP in Hex: 8115250d
+Word #00: 4510 +
+Word #01: 00fc +
+Word #02: 63f8 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c867
+Pack CheckSum: 8633  Computed CheckSum: 3798
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d22 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cae
+Pack CheckSum: 41ed  Computed CheckSum: f351
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 007c +
+Word #02: 63f9 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7e8
+Pack CheckSum: 86b2  Computed CheckSum: 3817
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d23 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0caf
+Pack CheckSum: 41ec  Computed CheckSum: f350
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d27 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ce7
+Pack CheckSum: 41b4  Computed CheckSum: f318
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 63ff +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7ce
+Pack CheckSum: 86cc  Computed CheckSum: 3831
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d28 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ce8
+Pack CheckSum: 41b3  Computed CheckSum: f317
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 6401 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7d0
+Pack CheckSum: 86ca  Computed CheckSum: 382f
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d29 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0ce9
+Pack CheckSum: 41b2  Computed CheckSum: f316
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 6403 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7d2
+Pack CheckSum: 86c8  Computed CheckSum: 382d
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d2a +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cea
+Pack CheckSum: 41b1  Computed CheckSum: f315
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 6405 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7d4
+Pack CheckSum: 86c6  Computed CheckSum: 382b
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 005c +
+Word #02: 5d2c +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cec
+Pack CheckSum: 41af  Computed CheckSum: f313
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 6408 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7d7
+Pack CheckSum: 86c3  Computed CheckSum: 3828
+
+Source IP in Hex: 8115250d
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 6409 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7d8
+Pack CheckSum: 86c2  Computed CheckSum: 3827
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d2d +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cb9
+Pack CheckSum: 41e2  Computed CheckSum: f346
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 005c +
+Word #02: 640a +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c7d9
+Pack CheckSum: 86c1  Computed CheckSum: 3826
+
+Source IP in Hex: 8115250d
+Word #00: 4510 +
+Word #01: 00b4 +
+Word #02: 640c +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: c833
+Pack CheckSum: 8667  Computed CheckSum: 37cc
+
+Source IP in Hex: 8115250d
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d2e +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cba
+Pack CheckSum: 41e1  Computed CheckSum: f345
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 004c +
+Word #02: 5d2f +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cdf
+Pack CheckSum: 41bc  Computed CheckSum: f320
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d30 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cbc
+Pack CheckSum: 41df  Computed CheckSum: f343
+
+Source IP in Hex: 45cfbe6a
+Word #00: 4510 +
+Word #01: 0034 +
+Word #02: 2480 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 8827
+Pack CheckSum: c673  Computed CheckSum: 77d8
+
+Source IP in Hex: 8115250d
+Word #00: 4510 +
+Word #01: 0028 +
+Word #02: 2481 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 881c
+Pack CheckSum: c67e  Computed CheckSum: 77e3
+
+Source IP in Hex: 8115250d
+Word #00: 4510 +
+Word #01: 0028 +
+Word #02: 2482 +
+Word #03: 4000 +
+Word #04: 3406 +
+....OMITTING CHECKSUM....
+Word #06: 8115 +
+Word #07: 250d +
+Word #08: 45cf +
+Word #09: be6a +
+----------------
+     Sum: 881d
+Pack CheckSum: c67d  Computed CheckSum: 77e2
+
+Source IP in Hex: 8115250d
+SNDR: Finished, wrote 191 packets to the pipe
+FwSim: Commanding firewall to Exit
+Word #00: 4500 +
+Word #01: 0028 +
+Word #02: 5d31 +
+Word #03: 4000 +
+Word #04: 8006 +
+....OMITTING CHECKSUM....
+Word #06: 45cf +
+Word #07: be6a +
+Word #08: 8115 +
+Word #09: 250d +
+----------------
+     Sum: 0cbd
+Pack CheckSum: 41de  Computed CheckSum: f342
+
+Source IP in Hex: 45cfbe6a
+>
+Exiting firewall
+fw: main is joining the thread.
+fw: thread destructor is deleting filter data.
+fw: thread destructor is closing pipes.
+fw: main confirmed that the thread was canceled.
+fw: main returning.
+
+FwSim: firewall exited with EXIT_SUCCESS
+FwSim: main is now cleaning up.
+FwSim: now exiting.
